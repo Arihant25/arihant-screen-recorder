@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  padding-top: 20px;
+}
+
+h1 {
+  font-family: 'Comfortaa', cursive;
+}
+
+video {
+  height: auto;
+}
+
+button {
+  font-family: 'Raleway', sans-serif;
+}
+
+#end {
+  padding-top: 20px;
+  font-family: 'Poppins', sans-serif;
+}
